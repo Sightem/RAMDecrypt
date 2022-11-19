@@ -30,8 +30,6 @@ namespace RAMDecrypt
 
                 Console.WriteLine(Decrypt ? "Decrypted your account data!": "Encrypted your account data!");
             }
-
-            Console.ReadKey();
         }
     }
 }
